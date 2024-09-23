@@ -19,7 +19,6 @@ The repository is organized into sections based on different JavaScript topics. 
 
 
 - **Code Snippets**: Example implementations of the concepts discussed.
-- **Explanations**: In-depth breakdown of solutions where needed.
 
 ### Sections:
 
