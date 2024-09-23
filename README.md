@@ -40,7 +40,7 @@ Feel free to clone or download this repository to get access to all questions an
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/js-interview-questions.git
+git clone https://github.com/gourish-naik/JS_Snippets.git
 # Navigate into the folder
 cd JS_Snippets
 ```
