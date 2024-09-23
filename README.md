@@ -40,10 +40,10 @@ Feel free to clone or download this repository to get access to all questions an
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/js-interview-questions.git
-
+git clone [https://github.com/your-username/js-interview-questions.git
+](https://github.com/gourish-naik/JS_Snippets.git)
 # Navigate into the folder
-cd js-interview-questions
+cd JS_Snippets
 ```
 ## 🛠️ Running the Code
 All the JavaScript code snippets in this repository can be run in the browser's console or Node.js environment. For more complex examples that involve asynchronous operations, Node.js might be required.
